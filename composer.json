@@ -7,6 +7,7 @@
       "Baldcat\\OrchidQuick\\": "src/"
     }
   },
+  "version": "0.0.1",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"
