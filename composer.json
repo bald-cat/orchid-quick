@@ -1,0 +1,14 @@
+{
+  "name": "baldcat/orchid-quick",
+  "description": "A set of classes to speed up work with Laravel Orchid.",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Baldcat\\OrchidQuick\\": "src/"
+    }
+  },
+  "require": {
+    "php": "^8.0",
+    "orchid/platform": "^14.0"
+  }
+}
