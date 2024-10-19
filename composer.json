@@ -8,7 +8,7 @@
       "OrchidQuick\\Fields\\": "/src/Fields/"
     }
   },
-  "version": "0.4.0",
+  "version": "1.0.0",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"
