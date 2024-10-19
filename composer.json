@@ -1,6 +1,7 @@
 {
   "name": "baldcat/orchid-quick",
   "description": "A set of classes to speed up work with Laravel Orchid.",
+  "license": "MIT",
   "type": "library",
   "autoload": {
     "psr-4": {
