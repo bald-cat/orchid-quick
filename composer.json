@@ -11,5 +11,7 @@
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
