@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Orchid\Fields;
+namespace OrchidQuick\Fields;
 
 use Illuminate\Support\Str;
 use Orchid\Screen\Fields\Input;

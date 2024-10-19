@@ -5,7 +5,7 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "Baldcat\\OrchidQuick\\": "src/"
+      "OrchidQuick\\Fields": "/src/Fields"
     }
   },
   "version": "0.1.0",

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Orchid\Fields;
+namespace OrchidQuick\Fields;
 
 use Orchid\Screen\Fields\Input;
 use Orchid\Screen\Fields\TextArea;
