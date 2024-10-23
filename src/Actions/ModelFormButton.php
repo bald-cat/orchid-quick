@@ -1,6 +1,6 @@
 <?php
 
-namespace OrchidQuick\Fields;
+namespace OrchidQuick\Actions;
 
 class ModelFormButton
 {

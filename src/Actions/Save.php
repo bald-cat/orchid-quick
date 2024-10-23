@@ -1,6 +1,6 @@
 <?php
 
-namespace OrchidQuick\Fields;
+namespace OrchidQuick\Actions;
 
 use Orchid\Screen\Actions\Button;
 use Orchid\Support\Color;

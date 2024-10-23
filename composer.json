@@ -9,7 +9,7 @@
       "OrchidQuick\\Actions\\": "/src/Actions/"
     }
   },
-  "version": "1.2.1",
+  "version": "1.2.2",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"
