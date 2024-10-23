@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Orchid\Actions;
+namespace OrchidQuick\Fields;
 
 use Illuminate\Support\Arr;
 use Orchid\Screen\Actions\Button;

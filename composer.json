@@ -5,10 +5,11 @@
   "type": "library",
   "autoload": {
     "psr-4": {
-      "OrchidQuick\\Fields\\": "/src/Fields/"
+      "OrchidQuick\\Fields\\": "/src/Fields/",
+      "OrchidQuick\\Actions\\": "/src/Actions/"
     }
   },
-  "version": "1.2.0",
+  "version": "1.2.1",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"

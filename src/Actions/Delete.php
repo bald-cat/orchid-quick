@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Orchid\Actions;
+namespace OrchidQuick\Fields;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Support\Str;
