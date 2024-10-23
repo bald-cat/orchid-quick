@@ -7,10 +7,11 @@
     "psr-4": {
       "OrchidQuick\\Fields\\": "/src/Fields/",
       "OrchidQuick\\Actions\\": "/src/Actions/",
-      "OrchidQuick\\Services\\": "/src/Services/"
+      "OrchidQuick\\Services\\": "/src/Services/",
+      "OrchidQuick\\Helpers\\": "/src/Helpers/"
     }
   },
-  "version": "1.3.0",
+  "version": "1.4.0",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"

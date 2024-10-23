@@ -2,8 +2,7 @@
 
 namespace OrchidQuick\Services;
 
-use App\Helpers\StringHelper;
-use App\Http\Controllers\CRUD\Page\PageDestroyController;
+use OrchidQuick\Helpers\StringHelper;
 use Illuminate\Support\Arr;
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Str;
