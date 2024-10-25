@@ -8,7 +8,6 @@ class Switcher extends Field
     {
         return \Orchid\Screen\Fields\Switcher::make($name)
                 ->sendTrueOrFalse()
-                ->value()
                 ->title(self::getTitle($name))
                 ->placeholder(self::getPlaceholder($name));
     }
