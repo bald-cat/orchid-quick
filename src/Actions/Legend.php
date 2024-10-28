@@ -14,7 +14,7 @@ class Legend extends Action
     public static function make(Model $model)
     {
         return Link::make()
-            ->name(__('Edit'))
+            ->name(__('Show'))
             ->type(Color::WARNING)
             ->rawClick(true)
             ->route('platform.' . self::modelAttribute($model) . self::ROUTE_PREFIX, $model->id);
