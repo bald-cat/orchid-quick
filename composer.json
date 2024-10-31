@@ -11,7 +11,7 @@
       "OrchidQuick\\Helpers\\": "/src/Helpers/"
     }
   },
-  "version": "1.6.2",
+  "version": "1.7.0",
   "require": {
     "php": "^8.0",
     "orchid/platform": "^14.0"
